@@ -1,9 +1,35 @@
+body {
+    color: white;
+    background-color: black;
+    font-style: 
+}
+
+h1 {
+    font-size: 10vw;
+    text-align: center;
+
+}
+
+.gifbutton {
+    font-size: 2vw;
+}
 .newgif {
     float: left;
     display: inline-block;
     margin: 10px;
 }
 
-p {
+.ratings {
     margin-bottom: 5px;
+    text-align: center;
+}
+
+.newgif{
+    border: solid 1px white;
+}
+
+.movImage {
+    width: 300px;
+    height: 250px;
+
 }
